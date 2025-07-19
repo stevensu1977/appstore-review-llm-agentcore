@@ -1,0 +1,5 @@
+strands-agents
+bedrock-agentcore
+google-play-scraper
+#app-store-scraper
+#boto3
